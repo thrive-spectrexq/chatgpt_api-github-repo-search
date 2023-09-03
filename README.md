@@ -44,14 +44,14 @@ Name for Human: GitHub Repositories Search
 Name for Model: github_repositories_search
 Description for Human: GitHub Repositories Search plugin for ChatGPT.
 Description for Model: GitHub Repositories Search plugin for ChatGPT. You can search for GitHub repositories using this plugin.
-Contact Email: support@example.com
-Legal Information: Legal Information
+Contact Support: https://support.cloudflare.com/hc/en-us
+Legal Information: © 2023 Cloudflare, Inc.
 Logo: ![image](https://github.com/thrive-spectrexq/chatgpt_api-github-repo-search/assets/143046193/bb562361-249a-4843-838f-c0baea290d30)
 
-## License
+License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## For Lua
+For Lua
 
 You can use this README.md file as the documentation for your GitHub repository, providing clear information about your API, how to use it, and how to access the Swagger UI documentation for testing and exploration.
