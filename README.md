@@ -36,7 +36,7 @@ router.get('/search', GetSearch);
 
 The GetSearch function handles the logic for searching GitHub repositories.
 
-For more details on the API's endpoints and request/response formats, please refer to the Swagger UI documentation.
+## For more details on the API's endpoints and request/response formats, please refer to the Swagger UI documentation.
 
 ## Contact Information
 
@@ -48,10 +48,10 @@ Contact Support: https://support.cloudflare.com/hc/en-us
 Legal Information: © 2023 Cloudflare, Inc.
 Logo: ![image](https://github.com/thrive-spectrexq/chatgpt_api-github-repo-search/assets/143046193/bb562361-249a-4843-838f-c0baea290d30)
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-For Lua
+# For Lua
 
 You can use this README.md file as the documentation for your GitHub repository, providing clear information about your API, how to use it, and how to access the Swagger UI documentation for testing and exploration.
