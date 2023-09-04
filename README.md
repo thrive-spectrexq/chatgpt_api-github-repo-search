@@ -42,8 +42,6 @@ The `GetSearch` function handles the logic for searching GitHub repositories.
 
 ## Contact Information
 
-- **Name for Human**: GitHub Repositories Search
-- **Name for Model**: github_repositories_search
 - **Description for Human**: GitHub Repositories Search plugin for ChatGPT.
 - **Description for Model**: GitHub Repositories Search plugin for ChatGPT. You can search for GitHub repositories using this plugin.
 - **Contact Support**: [Cloudflare Support](https://support.cloudflare.com/hc/en-us)
@@ -52,7 +50,3 @@ The `GetSearch` function handles the logic for searching GitHub repositories.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## For Lua
-
-You can use this README.md file as the documentation for your GitHub repository.
