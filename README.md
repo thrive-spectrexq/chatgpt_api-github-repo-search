@@ -36,9 +36,9 @@ router.get('/search', GetSearch);
 
 The GetSearch function handles the logic for searching GitHub repositories.
 
-## For more details on the API's endpoints and request/response formats, please refer to the Swagger UI documentation.
+# For more details on the API's endpoints and request/response formats, please refer to the Swagger UI documentation.
 
-## Contact Information
+# Contact Information
 
 Name for Human: GitHub Repositories Search
 Name for Model: github_repositories_search
@@ -46,7 +46,6 @@ Description for Human: GitHub Repositories Search plugin for ChatGPT.
 Description for Model: GitHub Repositories Search plugin for ChatGPT. You can search for GitHub repositories using this plugin.
 Contact Support: https://support.cloudflare.com/hc/en-us
 Legal Information: © 2023 Cloudflare, Inc.
-Logo: ![image](https://github.com/thrive-spectrexq/chatgpt_api-github-repo-search/assets/143046193/bb562361-249a-4843-838f-c0baea290d30)
 
 # License
 
