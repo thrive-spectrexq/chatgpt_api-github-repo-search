@@ -1,6 +1,6 @@
 # GitHub Repositories Search API
 
-https://workers.cloudflare.com/resources/logo/logo.svg
+![GitHub Repositories Search API](https://workers.cloudflare.com/resources/logo/logo.svg)
 
 This project implements a GitHub Repositories Search API, allowing users to search for GitHub repositories using ChatGPT. The API is documented using Swagger UI for easy exploration and testing.
 
