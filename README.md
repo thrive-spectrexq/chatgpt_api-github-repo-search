@@ -1,6 +1,6 @@
 # GitHub Repositories Search API
 
-![GitHub Repositories Search API](![image](https://github.com/thrive-spectrexq/chatgpt_api-github-repo-search/assets/143046193/6de164d5-5c9e-4023-91ef-7b974e462562)
+![GitHub Repositories Search API]([![image](https://github.com/thrive-spectrexq/chatgpt_api-github-repo-search/assets/143046193/6de164d5-5c9e-4023-91ef-7b974e462562)](https://workers.cloudflare.com/resources/logo/logo.svg)
 )
 
 This project implements a GitHub Repositories Search API, allowing users to search for GitHub repositories using ChatGPT. The API is documented using Swagger UI for easy exploration and testing.
