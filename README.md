@@ -22,7 +22,7 @@ This API is built using JavaScript and relies on the following main components:
 
 You can explore and interact with the API using Swagger UI. Access the documentation by visiting the following URL:
 
-[Swagger UI Documentation](https://your-api-url.com/docs)
+[Swagger UI Documentation](https://swagger.io/docs/)
 
 ## Usage
 
@@ -39,13 +39,6 @@ router.get('/search', GetSearch);
 The `GetSearch` function handles the logic for searching GitHub repositories.
 
 **For more details on the API's endpoints and request/response formats, please refer to the Swagger UI documentation.**
-
-## Contact Information
-
-- **Description for Human**: GitHub Repositories Search plugin for ChatGPT.
-- **Description for Model**: GitHub Repositories Search plugin for ChatGPT. You can search for GitHub repositories using this plugin.
-- **Contact Support**: [Cloudflare Support](https://support.cloudflare.com/hc/en-us)
-- **Legal Information**: © 2023 Cloudflare, Inc.
 
 ## License
 
